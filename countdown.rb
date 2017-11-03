@@ -7,3 +7,4 @@ while number >= 0
   number-=
   sleep 1
 end
+end
